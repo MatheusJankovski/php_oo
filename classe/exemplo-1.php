@@ -12,8 +12,8 @@ class Pessoa {
 
 }
 
-$marcus = new Pessoa();
-$marcus->nome = "Marcus Ribeiro";
-echo $marcus->falar();
+$matheus = new Pessoa();
+$matheus->nome = "Matheus Jankovski";
+echo $matheus->falar();
 
 ?>
